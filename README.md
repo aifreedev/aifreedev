@@ -1,3 +1,3 @@
 🧑‍🔧 running the [AI Free Project](https://github.com/aifreeproject)
 
-💻 building [aifree.dev](aifree.dev)
+💻 building [aifree.dev](https://aifree.dev) and [aifreeproject.org](https://aifreeproject.org)
